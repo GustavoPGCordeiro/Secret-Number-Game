@@ -81,7 +81,7 @@ This project was created to practice:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/Secret-Number-Game.git
+git clone https://github.com/GustavoPGCordeiro/Secret-Number-Game.git
 ```
 
 2. Open the project folder.
